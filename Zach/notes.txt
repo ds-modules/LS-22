@@ -1,0 +1,7 @@
+Consolidate the code for all of the features into one cell and then 
+generate side-by-side graphs for each feature. 
+
+Create a widget that explains each feature and allows the student to select two 
+for training. 
+
+Break out the code for the K-NN function and use it to explain K-NN. 
