@@ -5,3 +5,5 @@ Create a widget that explains each feature and allows the student to select two
 for training. 
 
 Break out the code for the K-NN function and use it to explain K-NN. 
+
+Focus on Learning Outcomes/Goals through explanations - Keep it short!
