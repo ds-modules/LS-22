@@ -15,7 +15,7 @@ Special thanks for Sarah Seiter and Emlen Metz for their immense contributions t
 * Identify sources of measurement uncertainty/error that introduce statistical uncertainty/error, that introduce systematic uncertainty/error, and that introduce both.
 * Suggest approaches to reducing or constraining measurement uncertainty (both statistical and systematic).
 
-**Notebook 2: Error Types**
+## **Notebook 2: Error Types**
 *This notebook explores the difference between a false positive error and a false negative error. We create a KNN model to classify spam/ham emails and test it's accuracy.*
 ### LEARNING GOALS
 * Given some degree of uncertainty, appreciate that different kinds of errors come with different costs, such that in some cases it is worthwhile to presume the less likely alternative because the error you risk is less costly. 
