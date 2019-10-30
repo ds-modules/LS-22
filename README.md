@@ -1,7 +1,7 @@
 # LS-22
 Deploying Spring 2020
 
-**Professor(s):** Saul Permutter, John Campbell, Tania Lombrozo<br>
+**Professor(s):** Saul Permutter, John Campbell, Alison Gopnik<br>
 **Lead:** Alma Pineda<br>
 **Developers:** Zach Wilder, Violet Yao, and William Sheu<br>
 Special thanks for Sarah Seiter and Emlen Metz for their immense contributions to development.<br>
